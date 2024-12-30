@@ -1,3 +1,5 @@
+echo "Starting Lin-DOS"
+
 function CLS() {
 	clear
 }
