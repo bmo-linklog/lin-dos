@@ -1,1 +1,1 @@
-echo "source $(pwd)/COMMAND.COM" >> ~/.bashrc
+echo "source $(pwd)/AUTOEXEC.BAT" >> ~/.bashrc
